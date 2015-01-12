@@ -7,7 +7,7 @@
 		<version>1.3</version>
 	</parent>
 	<artifactId>jutils.ee.common</artifactId>
-	<version>1.0</version>
+	<version>1.0-SNAPSHOT</version>
 	<name>JUtils EE common utils</name>
 	<description>These utilities can have third-party dependencies.</description>
 
