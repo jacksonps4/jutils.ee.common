@@ -3,10 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.minorityhobbies</groupId>
-		<artifactId>jse8-pom</artifactId>
-		<version>1.0-SNAPSHOT</version>
+		<artifactId>java8.pom</artifactId>
+		<version>1.2</version>
 	</parent>
 	<artifactId>jutils.ee.common</artifactId>
+	<version>1.0-SNAPSHOT</version>
 	<name>JUtils EE common utils</name>
 	<description>These utilities can have third-party dependencies.</description>
 
