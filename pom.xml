@@ -45,8 +45,4 @@
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
-
-	<scm>
-		<tag>jutils.ee.common-1.0</tag>
-	</scm>
 </project>
