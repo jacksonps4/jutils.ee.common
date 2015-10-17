@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.minorityhobbies</groupId>
 	<artifactId>jutils.ee.common</artifactId>
-	<version>1.2-SNAPSHOT</version>
+	<version>1.2</version>
 	<name>JUtils EE common utils</name>
 	<description>These utilities can have third-party dependencies.</description>
 
@@ -92,7 +92,7 @@
 		<connection>scm:git:https://github.com/jacksonps4/jutils.ee.common.git</connection>
 		<developerConnection>scm:git:git@github.com:jacksonps4/jutils.ee.common.git</developerConnection>
 		<url>https://github.com/jacksonps4</url>
-		<tag>HEAD</tag>
+		<tag>jutils.ee.common-1.2</tag>
 	</scm>
 
 	<dependencies>
